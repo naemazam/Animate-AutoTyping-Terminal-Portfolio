@@ -4,4 +4,4 @@ A portfolio is a very important thing for personal branding. It will help you to
 
 ![](./terminalauto.PNG)
 
-[Watch Vodeo](youtu.be/0py_nwdgiuw)
+[Watch Video](youtu.be/0py_nwdgiuw)
